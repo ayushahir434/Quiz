@@ -5,8 +5,9 @@ A simple and interactive React-based Quiz App that displays a user's answers, ca
 ✅ Multiple choice quiz functionality
 
 📊 Real-time result summary (Correct / Wrong / Total)
+![Screenshot 2025-06-17 121415](https://github.com/user-attachments/assets/3745b84c-6fe5-4eaa-818c-7983cf7c763a)![Screenshot 2025-06-17 121338](https://github.com/user-attachments/assets/b18cc45f-b92a-4770-87e3-f08fe8b87d75)
+![Screenshot 2025-06-17 121358](https://github.com/user-attachments/assets/d5c4125e-2867-47fe-997c-a65c60f486e7)
 
-🎯 Progress bar showing performance (correct vs wrong)
 
 🧪 Clean UI with dynamic feedback on each answer
 
